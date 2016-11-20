@@ -10,7 +10,6 @@ This contains an HTML exercise practicing unordered lists by adding goodbye in m
 
 ## Setup/Installation Requirements
 
-* Check out the GitHub pages link: https://tamothy.github.io/goodbye
 * Clone repository if interested in making changes
 * Use Atom to customize changes
 * Make sure to commit regularly on terminal
